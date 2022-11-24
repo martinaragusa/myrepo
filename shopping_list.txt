@@ -1,0 +1,18 @@
+bread
+pasta
+sauce
+lettuce
+peppers
+tomato
+oil
+salt
+pepper
+vinegar
+broccoli
+flour
+baking powder
+chocolate
+pesto
+meat
+rice
+cheese
