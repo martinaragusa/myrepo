@@ -1,2 +1,2 @@
 hey
-hi
+Greetings from GitHub
