@@ -16,4 +16,4 @@ pesto
 meat
 rice
 cheese
-garlic
+pasta
