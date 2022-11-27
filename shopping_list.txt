@@ -1,4 +1,3 @@
-tissues
 bread
 pasta
 sauce
